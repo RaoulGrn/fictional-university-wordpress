@@ -2,7 +2,6 @@
 
 ### About the project
 
-
 # I made this project along side a tutorial from Udemy with the purpose to learn more about Wordpress
 and PHP (a little javascript also) and the interactions between the admin dashboard and creating a theme from scratch in php.
 I used Local by Flywheel for the setup.
