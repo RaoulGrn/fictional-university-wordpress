@@ -1,4 +1,4 @@
-
+This Readme file is work in progress!
 
 # About the project
 
@@ -13,6 +13,8 @@ there also is a map with the university's campuses locations (gmap API was used)
 The site benefits from a live search implementation, if you press 's' the live search overlay will appear.
 Also, users can create private notes that only they can see. They can create posts.
 Furthermore, I've included some basic "Events" that every university has during their year.
+
+
 
 Demo photos 
 
